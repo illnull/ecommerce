@@ -25,7 +25,7 @@ class Directory extends React.Component {
             },
             {
                 title: 'men',
-                imageURL: 'https://images.unsplash.com/photo-1512353087810-25dfcd100962?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+                imageURL: 'https://images.unsplash.com/photo-1569532256205-09c2cee37504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
                 size: 'large',
                 id: 4
             },
