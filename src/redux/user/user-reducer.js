@@ -1,4 +1,4 @@
-import { UserActionTypes } from './user-type'
+import { UserActionTypes } from '../redux-type'
 
 const INITIAL_STATE = {
     currentUser: null
